@@ -21,8 +21,7 @@ I hold a degree in Industrial Engineering from UNLZ (Argentina) and a Master's i
 
 📫 Reach out to me at: guadapascal@gmail.com
 
-## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guadapascal&layout=compact&theme=calm)
+
 
 <!--
 **guadapascal/guadapascal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,4 +36,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 📈 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guadapascal&layout=compact&theme=calm)
+
 -->
