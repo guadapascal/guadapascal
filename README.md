@@ -19,8 +19,7 @@ I hold a degree in Industrial Engineering from UNLZ (Argentina) and a Master's i
 - Delivering courses on Data Science and Machine Learning at UGR.
 - Doing Community Management at Cátedra Abierta Latinoamericana Matilda y las Mujeres en Ingeniería (CAL-Matilda)
 
-## 📫 Let's Connect
-Reach out to me at: guadapascal@gmail.com
+📫 Reach out to me at: guadapascal@gmail.com
 
 ## 📈 GitHub Stats
 ![Guada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guadapascal&show_icons=true&theme=default)
