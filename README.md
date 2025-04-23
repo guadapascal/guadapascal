@@ -4,7 +4,7 @@ I'm a researcher on data-driven optimization for decision-making processes in co
 I work with a gender and intersectional perspective grounded in open science and epistemic justice principles.
 
 ## 🔭 More about me:
-I hold a Master's in Decision Systems Engineering from URJC (Spain) and a degree in Industrial Engineering from UNLZ (Argentina). I am a Ph.D. student at the UNLZ and URJC, in Information and Communication Technologies (ICTs) and Engineering. My research focuses on data science, natural language processing (NLP), and cognitive neuroscience.
+I hold a degree in Industrial Engineering from UNLZ (Argentina) and a Master's in Decision Systems Engineering from URJC (Spain). I am a Ph.D. student at the URJC and UNLZ, in Information and Communication Technologies (ICTs) and Engineering. My research focuses on data science, natural language processing (NLP), and cognitive neuroscience.
 
 ## ✨ Interests:
 - Mathematical modeling and machine learning
@@ -23,6 +23,9 @@ I hold a Master's in Decision Systems Engineering from URJC (Spain) and a degree
 Reach out to me at: guadapascal@gmail.com
 
 ## 📈 GitHub Stats
+![Guada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guadapascal&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guadapascal&layout=compact)
+
 <!--
 **guadapascal/guadapascal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
