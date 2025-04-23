@@ -1,8 +1,9 @@
-## 👋 Hi! I'm Guada Pascal 
+# 👋 Hi! I'm Guada Pascal 
 
-I'm a researcher on data-driven optimization for decision-making processes in companies and social systems — all with a regional lens grounded in the Global South. I work with a gender and intersectional perspective grounded in open science and epistemic justice principles.
+I'm a researcher on data-driven optimization for decision-making processes in companies and social systems — all with a regional lens grounded in the Global South. 
+I work with a gender and intersectional perspective grounded in open science and epistemic justice principles.
 
-🔭 More about me:
+## 🔭 More about me:
 I hold a Master's in Decision Systems Engineering from URJC (Spain) and a degree in Industrial Engineering from UNLZ (Argentina). I am a Ph.D. student at the UNLZ and URJC, in Information and Communication Technologies (ICTs) and Engineering. My research focuses on data science, natural language processing (NLP), and cognitive neuroscience.
 
 ✨ Interests:
