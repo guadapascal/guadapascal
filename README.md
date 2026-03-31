@@ -6,7 +6,7 @@ I work with a gender and intersectional perspective grounded in open science and
 ## 🔭 More about me:
 I hold a degree in Industrial Engineering from UNLZ (Argentina) and a Master's in Decision Systems Engineering from URJC (Spain). I am a Ph.D. student at the URJC and UNLZ, in Information and Communication Technologies (ICTs) and Engineering. My research focuses on data science, natural language processing (NLP), and cognitive neuroscience.
 
-## ✨ Research Interests:
+## ✨ Research interests:
 - Mathematical modeling and machine learning
 - Natural language processing (NLP)
 - Cognitive neuroscience
@@ -14,7 +14,7 @@ I hold a degree in Industrial Engineering from UNLZ (Argentina) and a Master's i
 - Open and reproducible science
 - Citizen science and epistemic justice
 
-## 🧠 Current Focus
+## 🧠 Current focus
 - **MatildaNLP**: Building open NLP infrastructure from Latin America
 - Data-driven analysis of educational processes in engineering (causal modeling & ABP)
 - Development of open, gender-aware datasets for research and policy
